@@ -1,0 +1,18 @@
+.esquerdo{
+    background-color: brown;
+    width: 30%;
+    padding: 10px;
+}
+
+.direito{
+    background-color: rgb(143, 143, 209);
+    width: 70%;
+    padding: 15px;
+    
+}
+
+.principal{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
