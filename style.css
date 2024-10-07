@@ -9,6 +9,8 @@
     background-color: rgb(143, 143, 209);
     width: 70%;
     padding: 15px;
+    color:darkblue;
+    font-family: 'Courier New', Courier, monospace;
     
 }
 
@@ -34,3 +36,17 @@
 span {
     font-weight: bold;
 }
+
+.ednaldo{
+    font-size: 45px;
+    color: blue;
+}
+
+.links{
+    color:black;
+}
+
+.resumo{
+    padding-top: 30px;
+}
+
